@@ -1,0 +1,49 @@
+.post1{
+  margin-left: 10em;
+  margin-right: 10em;
+  margin-top: 5em;
+  border-style: solid;
+  border-color: white;
+  color: white;
+}
+
+.title{
+  text-align: center;
+  color: white;
+  margin-top: 10px;
+  
+}
+
+
+.post{
+  margin-top: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading{
+  margin-top: 20px;
+  color: white;
+  text-align: center;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.input{
+  margin-right: 5px;
+  align-items: center;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  background-color: black;
+  display:inline-block;
+  margin-bottom: 15px;
+}
+
+button{
+  display: inline-block;
+  color: white;
+  background-color: black;
+  margin-bottom: 15px;
+  
+}
